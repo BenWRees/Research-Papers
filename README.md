@@ -48,3 +48,4 @@ Stochastic Resetting and Applications:	Unknown
 Direct Visual-Inertial Odometry with Semi-Dense Mapping:	Wenju Xu, Dongkyu Choi, Guanghui Wang
 Trust-Region-Free Policy Optimization for Stochastic Policies:	Mingfei Sun, Benjamin Ellis, Anuj Mahajan, Sam Devlin, Katja Hofmann, Shimon Whiteson
 Optimization of High-Dimensional Expensive Multi-Objective Problems using Multi-Mode Radial Basis Functions:	Unknown
+Asymptotics of numerical integration for two-level mixed models:	Alex Stringer, Blair Bilodeau, Yanbo Tang
