@@ -44,3 +44,4 @@ Exact active subspace Metropolis-Hastings, with applications to the Lorenz-96 sy
 Dimensionality reduction can be used as a surrogate model for high-dimensional forward uncertainty quantification:	Jungho Kim, Sang-ri Yi, Ziqi Wang
 On the Stochastic Approximation Method of Robbins:	Unknown
 Explain Variance of Prediction in Variational Time Series Models for Clinical Deterioration Prediction:	Jiacheng Liu, Jaideep Srivastava
+Stochastic Resetting and Applications:	Unknown
