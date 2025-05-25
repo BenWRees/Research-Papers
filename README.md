@@ -61,3 +61,4 @@ Simopt -- Simulation pass for Speculative Optimisation of FPGA-CAD flow:	Eashan 
 Convergence of projected stochastic approximation algorithm:	Michał Borowski, Błażej Miasojedow
 Optimization by moving ridge functions derivative-free optimization for computationally intensive functions:	Unknown
 A Fast Chebyshev Spectral Method for Nonlinear Fourier Transform:	Vishal Vaibhav
+Active subspace methods in theory and practice: applications to kriging surfaces:	Paul G. Constantine, Eric Dow, Qiqi Wang
