@@ -208,3 +208,5 @@ Sequential Monte Carlo with active subspaces:	Leonardo Ripoli, Richard G. Everit
 
 LinEasyBO: Scalable Bayesian Optimization Approach for Analog Circuit Synthesis via One-Dimensional Subspaces:	Shuhan Zhang, Fan Yang, Changhao Yan, Dian Zhou, Xuan Zeng
 
+TREGO: a Trust-Region Framework for Efficient Global Optimization:	Youssef Diouane, Victor Picheny, Rodolphe Le Riche, Alexandre Scotto Di Perrotolo
+
