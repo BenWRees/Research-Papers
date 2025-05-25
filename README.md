@@ -78,3 +78,5 @@ A sequential surrogate method for reliability analysis based on radial basis fun
 
 A Nesterov's Accelerated quasi-Newton method for Global Routing using Deep Reinforcement Learning:	S. Indrapriyadarsini, Shahrzad Mahboubi, Hiroshi Ninomiya, Takeshi Kamio, Hideki Asai
 
+Subspace Clustering with Active Learning:	Hankui Peng, Nicos G. Pavlidis
+
