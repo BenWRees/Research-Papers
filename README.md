@@ -148,3 +148,5 @@ A New Unbiased Stochastic Derivative Estimator for Discontinuous Sample Performa
 
 PANTR A proximal algorithm with trust-region updates for nonconvex constrained optimization:	Unknown
 
+Sample Complexity Analysis for Adaptive Optimization Algorithms with Stochastic Oracles:	Billy Jin, Katya Scheinberg, Miaolan Xie
+
