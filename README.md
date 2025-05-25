@@ -190,3 +190,5 @@ A Numerical Study of Newton Interpolation with Extremely High Degrees:	Michael B
 
 Stochastic Estimation of the Maximum of a Regression Function:	Unknown
 
+The Proximal Robbins Monro Method:	Unknown
+
