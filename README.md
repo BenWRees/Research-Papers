@@ -202,3 +202,5 @@ Averaged Adam accelerates stochastic optimization in the training of deep neural
 
 Using Quantum Computers for Quantum Simulation:	Unknown
 
+Foreign exchange trading and management with the stochastic dual dynamic programming method:	Unknown
+
