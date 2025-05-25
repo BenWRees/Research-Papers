@@ -144,3 +144,5 @@ Predictability in Nonlinear Dynamical Systems with Model Uncertainty:	Jinqiao Du
 
 Multivariate stochastic approximation using a Simultaneous Perturbation Gradient Approximation:	Unknown
 
+A New Unbiased Stochastic Derivative Estimator for Discontinuous Sample Performances with Structural Parameters:	Unknown
+
