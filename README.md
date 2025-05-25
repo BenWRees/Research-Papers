@@ -162,3 +162,5 @@ Optimal and Efficient Designs of Experiments:	Unknown
 
 Clover Action for Blue Gene-Q and Iterative solvers for DWF:	Karthee Sivalingam, Peter Boyle
 
+A Companion for the Kiefer–Wolfowitz–Blum Stochastic Approximation Algorithm:	Unknown
+
