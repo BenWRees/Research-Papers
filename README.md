@@ -56,3 +56,5 @@ Quantum subroutine problem and the robustness of quantum complexity classes:	Har
 
 Stochastic virtual element methods for uncertainty propagation of stochastic linear elasticity:	Zhibao Zheng, Udo Nackenhorst
 
+Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains:	Unknown
+
