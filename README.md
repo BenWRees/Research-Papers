@@ -29,3 +29,4 @@ Quantum subroutine problem and the robustness of quantum complexity classes:	Har
 STOCHASTIC APPROXIMATION:	Unknown
 Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains:	Unknown
 Bayesian Optimisation for Safe Navigation under Localisation Uncertainty:	Rafael Oliveira, Lionel Ott, Vitor Guizilini, Fabio Ramos
+Backtracking activation impacts the criticality of excitable networks:	Renquan Zhang, Guoyi Quan, Jiannan Wang, Sen Pei
