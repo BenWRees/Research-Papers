@@ -176,3 +176,5 @@ Foxtsage vs. Adam: Revolution or Evolution in Optimization?:	Sirwan A. Aula, Tar
 
 Random projections for trust region subproblems:	Ky Vu, Pierre-Louis Poirion, Claudia D'Ambrosio, Leo Liberti
 
+Adaptive Principal Component Analysis:	Unknown
+
