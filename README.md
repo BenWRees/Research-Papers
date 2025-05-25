@@ -194,3 +194,5 @@ The Proximal Robbins Monro Method:	Unknown
 
 Optimization by Simulation Metamodelling Methods:	Unknown
 
+The stochastic integrable AKNS hierarchy:	Alexis Arnaudon
+
