@@ -54,3 +54,4 @@ Multi-Objective Optimization and Hyperparameter Tuning With Desirability Functio
 Sequential Bayesian experimental design for estimation of extreme-event probability in stochastic dynamical systems:	Xianliang Gong, Yulin Pan
 Approximate homotopy series solutions of perturbed PDEs via approximate symmetry method:	Zhi-Yong Zhang
 A Stochastic Approximation Method:	Unknown
+Revisiting stochastic off-policy action-value gradients:	Yemi Okesanjo, Victor Kofia
