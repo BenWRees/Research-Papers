@@ -34,3 +34,4 @@ Variance-Based Sensitivity Analysis to Support Simulation-Based Design Under Unc
 Solving Stochastic Optimization by Newton-type methods with Dimension-Adaptive Sparse Grid Quadrature:	Yuancheng Zhou
 Consumer Transactions Simulation through Generative Adversarial Networks:	Sergiy Tkachuk, Szymon Łukasik, Anna Wróblewska
 Importance Sampling for Minimization of Tail Risks: A Tutorial:	Anand Deo, Karthyek Murthy
+Implementation of Stochastic Quasi-Newton's Method in PyTorch:	Yingkai Li, Huidong Liu
