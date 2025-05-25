@@ -40,3 +40,5 @@ A model-free method for learning flexibility capacity of loads providing grid su
 
 Data-driven polynomial ridge approximation using variable projection:	Jeffrey M. Hokanson, Paul G. Constantine
 
+A primal-dual interior point trust region method for inequality-constrained optimization problems on Riemannian manifolds:	Mitsuaki Obara, Takayuki Okuno, Akiko Takeda
+
