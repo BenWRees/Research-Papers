@@ -48,3 +48,5 @@ Stochastic trust-region algorithm in random subspaces with convergence and expec
 
 Offline Bayesian Aleatoric and Epistemic Uncertainty Quantification and Posterior Value Optimisation in Finite-State MDPs:	Filippo Valdettaro, A. Aldo Faisal
 
+Bayesian Optimisation for Constrained Problems:	Juan Ungredda, Juergen Branke
+
