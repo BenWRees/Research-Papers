@@ -150,3 +150,5 @@ PANTR A proximal algorithm with trust-region updates for nonconvex constrained o
 
 Sample Complexity Analysis for Adaptive Optimization Algorithms with Stochastic Oracles:	Billy Jin, Katya Scheinberg, Miaolan Xie
 
+A Near-Stationary Subspace for Ridge Approximation:	Unknown
+
