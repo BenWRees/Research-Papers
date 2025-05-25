@@ -102,3 +102,4 @@ Averaged Adam accelerates stochastic optimization in the training of deep neural
 Using Quantum Computers for Quantum Simulation:	Unknown
 Foreign exchange trading and management with the stochastic dual dynamic programming method:	Unknown
 Sequential Monte Carlo with active subspaces:	Leonardo Ripoli, Richard G. Everitt
+LinEasyBO: Scalable Bayesian Optimization Approach for Analog Circuit Synthesis via One-Dimensional Subspaces:	Shuhan Zhang, Fan Yang, Changhao Yan, Dian Zhou, Xuan Zeng
