@@ -22,3 +22,5 @@ A Generalized Version of Chung's Lemma and its Applications:	Li Jiang, Xiao Li, 
 
 "Medium-n studies" in computing education conferences:	Michael Guerzhoy
 
+A Robbins--Monro Sequence That Can Exploit Prior Information For Faster Convergence:	Siwei Liu, Ke Ma, Stephan M. Goetz
+
