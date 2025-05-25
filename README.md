@@ -56,3 +56,5 @@ Quantum subroutine problem and the robustness of quantum complexity classes:	Har
 
 STOCHASTIC APPROXIMATION:	Unknown
 
+Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains:	Unknown
+
