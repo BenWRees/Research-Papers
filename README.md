@@ -34,3 +34,5 @@ Trust Region Methods For Nonconvex Stochastic Optimization Beyond Lipschitz Smoo
 
 Octopus Inspired Optimization Algorithm: Multi-Level Structures and Parallel Computing Strategies:	Xu Wang, Longji Xu, Yiquan Wang, Yuhua Dong, Xiang Li, Jia Deng, Rui He
 
+On Dvoretzky's Stochastic Approximation Theorem:	Unknown
+
