@@ -26,3 +26,4 @@ Offline Bayesian Aleatoric and Epistemic Uncertainty Quantification and Posterio
 Bayesian Optimisation for Constrained Problems:	Juan Ungredda, Juergen Branke
 Large-Scale Machine Learning with Stochastic Gradient Descent:	Unknown
 Quantum subroutine problem and the robustness of quantum complexity classes:	Harumichi Nishimura, Masanao Ozawa
+STOCHASTIC APPROXIMATION:	Unknown
