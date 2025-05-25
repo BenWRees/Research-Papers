@@ -91,3 +91,4 @@ Adaptive Principal Component Analysis:	Unknown
 Generalized Integrating Brownian Fields for Simulation Metamodeling:	Unknown
 Domain adaptation for sequence labeling using hidden Markov models:	Edouard Grave, Guillaume Obozinski, Francis Bach
 Consistency of the Maximum Likelihood Estimator in the Presence of Infinitely Many Incidental Parameters:	Unknown
+Mutual inactivation of Notch and Delta permits a simple mechanism for lateral inhibition patterning:	Amit Lakhanpal, David Sprinzak, Michael B. Elowitz
