@@ -94,3 +94,5 @@ Stochastic Resetting and Applications:	Unknown
 
 Direct Visual-Inertial Odometry with Semi-Dense Mapping:	Wenju Xu, Dongkyu Choi, Guanghui Wang
 
+Trust-Region-Free Policy Optimization for Stochastic Policies:	Mingfei Sun, Benjamin Ellis, Anuj Mahajan, Sam Devlin, Katja Hofmann, Shimon Whiteson
+
