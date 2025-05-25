@@ -23,3 +23,4 @@ A primal-dual interior point trust region method for inequality-constrained opti
 Adaptive asymptotically efficient estimation in heteroscedastic nonparametric regression via model selection:	Leonid Galtchouk, Serguey Pergamenshchikov
 Stochastic trust-region algorithm in random subspaces with convergence and expected complexity analyses:	Kwassi Joseph Dzahini, Stefan M. Wild
 Offline Bayesian Aleatoric and Epistemic Uncertainty Quantification and Posterior Value Optimisation in Finite-State MDPs:	Filippo Valdettaro, A. Aldo Faisal
+Bayesian Optimisation for Constrained Problems:	Juan Ungredda, Juergen Branke
