@@ -72,3 +72,5 @@ Importance Sampling for Minimization of Tail Risks: A Tutorial:	Anand Deo, Karth
 
 Implementation of Stochastic Quasi-Newton's Method in PyTorch:	Yingkai Li, Huidong Liu
 
+Approximation Methods that Converge with Probability One:	Unknown
+
