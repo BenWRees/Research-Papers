@@ -20,3 +20,4 @@ On Dvoretzky's Stochastic Approximation Theorem:	Unknown
 A model-free method for learning flexibility capacity of loads providing grid support:	Austin R. Coffman, Prabir Barooah
 Data-driven polynomial ridge approximation using variable projection:	Jeffrey M. Hokanson, Paul G. Constantine
 A primal-dual interior point trust region method for inequality-constrained optimization problems on Riemannian manifolds:	Mitsuaki Obara, Takayuki Okuno, Akiko Takeda
+Adaptive asymptotically efficient estimation in heteroscedastic nonparametric regression via model selection:	Leonid Galtchouk, Serguey Pergamenshchikov
