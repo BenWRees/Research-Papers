@@ -43,3 +43,4 @@ ASTRO-DF: A Class of Adaptive Sampling Trust-Region Algorithms for Derivative-Fr
 Exact active subspace Metropolis-Hastings, with applications to the Lorenz-96 system:	Ingmar Schuster, Paul G. Constantine, T. J. Sullivan
 Dimensionality reduction can be used as a surrogate model for high-dimensional forward uncertainty quantification:	Jungho Kim, Sang-ri Yi, Ziqi Wang
 On the Stochastic Approximation Method of Robbins:	Unknown
+Explain Variance of Prediction in Variational Time Series Models for Clinical Deterioration Prediction:	Jiacheng Liu, Jaideep Srivastava
