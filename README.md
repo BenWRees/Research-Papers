@@ -210,3 +210,5 @@ LinEasyBO: Scalable Bayesian Optimization Approach for Analog Circuit Synthesis 
 
 TREGO: a Trust-Region Framework for Efficient Global Optimization:	Youssef Diouane, Victor Picheny, Rodolphe Le Riche, Alexandre Scotto Di Perrotolo
 
+Diffusion with Stochastic Resetting:	Unknown
+
