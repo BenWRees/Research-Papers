@@ -50,3 +50,4 @@ Trust-Region-Free Policy Optimization for Stochastic Policies:	Mingfei Sun, Benj
 Optimization of High-Dimensional Expensive Multi-Objective Problems using Multi-Mode Radial Basis Functions:	Unknown
 Asymptotics of numerical integration for two-level mixed models:	Alex Stringer, Blair Bilodeau, Yanbo Tang
 W–SPSA in Practice Approximation of Weight Matrices and Calibration of Traffic Simulation Models:	Unknown
+Multi-Objective Optimization and Hyperparameter Tuning With Desirability Functions:	Thomas Bartz-Beielstein
