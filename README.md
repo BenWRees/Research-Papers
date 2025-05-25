@@ -14,3 +14,5 @@ One-parameter robust global frequency estimator for slowly varying amplitude and
 
 Stochastic Constraint Programming:	Toby Walsh
 
+Partial-Hessian Strategies for Fast Learning of Nonlinear Embeddings:	Max Vladymyrov, Miguel Carreira-Perpinan
+
