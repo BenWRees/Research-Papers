@@ -57,3 +57,4 @@ A Stochastic Approximation Method:	Unknown
 Revisiting stochastic off-policy action-value gradients:	Yemi Okesanjo, Victor Kofia
 A Brief Introduction to Optimization via Simulation:	Unknown
 T-SCI: A Two-Stage Conformal Inference Algorithm with Guaranteed Coverage for Cox-MLP:	Jiaye Teng, Zeren Tan, Yang Yuan
+Simopt -- Simulation pass for Speculative Optimisation of FPGA-CAD flow:	Eashan Wadhwa, Shanker Shreejith
