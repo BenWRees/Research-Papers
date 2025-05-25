@@ -86,3 +86,5 @@ Exact active subspace Metropolis-Hastings, with applications to the Lorenz-96 sy
 
 Dimensionality reduction can be used as a surrogate model for high-dimensional forward uncertainty quantification:	Jungho Kim, Sang-ri Yi, Ziqi Wang
 
+The Proximal Robbins-Monro Method:	Panos Toulis, Thibaut Horel, Edoardo M. Airoldi
+
