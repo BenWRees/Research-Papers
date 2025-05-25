@@ -170,3 +170,5 @@ A Radial Basis Function based Optimization Algorithm with Regular Simplex set ge
 
 Sensitive vPSA -- Exploring Sensitivity in Visual Parameter Space Analysis:	Bernhard Fröhler, Tim Elberfeld, Torsten Möller, Hans-Christian Hege, Julia Maurer, Christoph Heinzl
 
+Using Pareto Simulated Annealing to Address Algorithmic Bias in Machine Learning:	William Blanzeisky, Pádraig Cunningham
+
