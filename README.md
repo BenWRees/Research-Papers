@@ -80,3 +80,5 @@ A Nesterov's Accelerated quasi-Newton method for Global Routing using Deep Reinf
 
 Subspace Clustering with Active Learning:	Hankui Peng, Nicos G. Pavlidis
 
+ASTRO-DF: A Class of Adaptive Sampling Trust-Region Algorithms for Derivative-Free Stochastic Optimization:	Sara Shashaani, Fatemeh Hashemi, Raghu Pasupathy
+
