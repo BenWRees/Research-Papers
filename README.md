@@ -74,3 +74,4 @@ Multivariate stochastic approximation using a Simultaneous Perturbation Gradient
 A New Unbiased Stochastic Derivative Estimator for Discontinuous Sample Performances with Structural Parameters:	Unknown
 PANTR A proximal algorithm with trust-region updates for nonconvex constrained optimization:	Unknown
 Sample Complexity Analysis for Adaptive Optimization Algorithms with Stochastic Oracles:	Billy Jin, Katya Scheinberg, Miaolan Xie
+A Near-Stationary Subspace for Ridge Approximation:	Unknown
