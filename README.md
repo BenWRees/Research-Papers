@@ -1,4 +1,4 @@
-# TITLE AND AUTHORS
+#TITLE AND AUTHORS
 Polynomial Ridge Flowfield Estimation:	Ashley Scillitoe, Pranay Seshadri, Chun Yui Wong, Andrew B. Duncan
 On the approximation by weighted ridge functions:	Vugar Ismailov
 Fast Adaptive Beamforming based on kernel method under Small Sample Support:	Hu Xie, Da-Zheng Feng, Ming-Dong Yuan
@@ -12,3 +12,4 @@ A Generalized Version of Chung's Lemma and its Applications:	Li Jiang, Xiao Li, 
 "Medium-n studies" in computing education conferences:	Michael Guerzhoy
 A Robbins--Monro Sequence That Can Exploit Prior Information For Faster Convergence:	Siwei Liu, Ke Ma, Stephan M. Goetz
 Fast Stochastic Algorithms for Low-rank and Nonsmooth Matrix Problems:	Dan Garber, Atara Kaplan
+Orbit Optimization by Radial Basis Function Interpolation in Trust-Regions:	Unknown
