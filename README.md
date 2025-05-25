@@ -73,3 +73,4 @@ Predictability in Nonlinear Dynamical Systems with Model Uncertainty:	Jinqiao Du
 Multivariate stochastic approximation using a Simultaneous Perturbation Gradient Approximation:	Unknown
 A New Unbiased Stochastic Derivative Estimator for Discontinuous Sample Performances with Structural Parameters:	Unknown
 PANTR A proximal algorithm with trust-region updates for nonconvex constrained optimization:	Unknown
+Sample Complexity Analysis for Adaptive Optimization Algorithms with Stochastic Oracles:	Billy Jin, Katya Scheinberg, Miaolan Xie
