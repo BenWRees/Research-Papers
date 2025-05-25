@@ -45,3 +45,4 @@ Dimensionality reduction can be used as a surrogate model for high-dimensional f
 On the Stochastic Approximation Method of Robbins:	Unknown
 Explain Variance of Prediction in Variational Time Series Models for Clinical Deterioration Prediction:	Jiacheng Liu, Jaideep Srivastava
 Stochastic Resetting and Applications:	Unknown
+Direct Visual-Inertial Odometry with Semi-Dense Mapping:	Wenju Xu, Dongkyu Choi, Guanghui Wang
