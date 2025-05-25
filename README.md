@@ -94,3 +94,4 @@ Consistency of the Maximum Likelihood Estimator in the Presence of Infinitely Ma
 Mutual inactivation of Notch and Delta permits a simple mechanism for lateral inhibition patterning:	Amit Lakhanpal, David Sprinzak, Michael B. Elowitz
 A Numerical Study of Newton Interpolation with Extremely High Degrees:	Michael Breuß, Friedemann Kemm, Oliver Vogel
 Quasi-Likelihood Analysis for Stochastic Regression Models with Nonsynchronous Observations:	Teppei Ogihara, Nakahiro Yoshida
+The Proximal Robbins-Monro Method:	Panos Toulis, Thibaut Horel, Edoardo M. Airoldi
