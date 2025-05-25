@@ -101,3 +101,4 @@ A Sequential Quadratic Programming Method with High Probability Complexity Bound
 Averaged Adam accelerates stochastic optimization in the training of deep neural network approximations for partial differential equation and optimal control problems:	Steffen Dereich, Arnulf Jentzen, Adrian Riekert
 Using Quantum Computers for Quantum Simulation:	Unknown
 Foreign exchange trading and management with the stochastic dual dynamic programming method:	Unknown
+Sequential Monte Carlo with active subspaces:	Leonardo Ripoli, Richard G. Everitt
