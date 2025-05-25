@@ -122,3 +122,5 @@ Convergence of projected stochastic approximation algorithm:	Michał Borowski, B
 
 Optimization by moving ridge functions derivative-free optimization for computationally intensive functions:	Unknown
 
+A Fast Chebyshev Spectral Method for Nonlinear Fourier Transform:	Vishal Vaibhav
+
