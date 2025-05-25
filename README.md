@@ -60,3 +60,5 @@ Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Mark
 
 Bayesian Optimisation for Safe Navigation under Localisation Uncertainty:	Rafael Oliveira, Lionel Ott, Vitor Guizilini, Fabio Ramos
 
+Backtracking activation impacts the criticality of excitable networks:	Renquan Zhang, Guoyi Quan, Jiannan Wang, Sen Pei
+
