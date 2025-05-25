@@ -102,3 +102,5 @@ Asymptotics of numerical integration for two-level mixed models:	Alex Stringer, 
 
 W–SPSA in Practice Approximation of Weight Matrices and Calibration of Traffic Simulation Models:	Unknown
 
+Multi-Objective Optimization and Hyperparameter Tuning With Desirability Functions:	Thomas Bartz-Beielstein
+
