@@ -50,3 +50,5 @@ Offline Bayesian Aleatoric and Epistemic Uncertainty Quantification and Posterio
 
 Bayesian Optimisation for Constrained Problems:	Juan Ungredda, Juergen Branke
 
+Large-Scale Machine Learning with Stochastic Gradient Descent:	Unknown
+
