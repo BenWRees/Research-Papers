@@ -69,3 +69,4 @@ Stochastic Mirror Descent Dynamics and their Convergence in Monotone Variational
 Recurrent neural network training with preconditioned stochastic gradient descent:	Xi-Lin Li
 Avoiding Geometry Improvement in Derivative-Free Model-Based Methods via Randomization:	Matt Menickelly
 A Game Theoretic Analysis for Cooperative Smart Farming:	Deepti Gupta, Paras Bhatt, Smriti Bhatt
+Predictability in Nonlinear Dynamical Systems with Model Uncertainty:	Jinqiao Duan
