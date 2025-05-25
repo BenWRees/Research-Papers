@@ -26,3 +26,5 @@ A Robbins--Monro Sequence That Can Exploit Prior Information For Faster Converge
 
 Fast Stochastic Algorithms for Low-rank and Nonsmooth Matrix Problems:	Dan Garber, Atara Kaplan
 
+Orbit Optimization by Radial Basis Function Interpolation in Trust-Regions:	Unknown
+
