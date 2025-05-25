@@ -64,3 +64,4 @@ A Fast Chebyshev Spectral Method for Nonlinear Fourier Transform:	Vishal Vaibhav
 Active subspace methods in theory and practice: applications to kriging surfaces:	Paul G. Constantine, Eric Dow, Qiqi Wang
 Ratchet-mediated resetting: Current, efficiency, and exact solution:	Connor Roberts, Emir Sezik, Eloise Lardet
 Recent Advances in Stochastic Gradient Descent in Deep Learning:	Unknown
+Recursion-Free Online Multiple Incremental/Decremental Analysis Based on Ridge Support Vector Learning:	Bo-Wei Chen
