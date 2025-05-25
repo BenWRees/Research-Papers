@@ -138,3 +138,5 @@ Recurrent neural network training with preconditioned stochastic gradient descen
 
 Avoiding Geometry Improvement in Derivative-Free Model-Based Methods via Randomization:	Matt Menickelly
 
+A Game Theoretic Analysis for Cooperative Smart Farming:	Deepti Gupta, Paras Bhatt, Smriti Bhatt
+
