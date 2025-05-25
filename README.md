@@ -88,3 +88,5 @@ Dimensionality reduction can be used as a surrogate model for high-dimensional f
 
 The Proximal Robbins-Monro Method:	Panos Toulis, Thibaut Horel, Edoardo M. Airoldi
 
+Explain Variance of Prediction in Variational Time Series Models for Clinical Deterioration Prediction:	Jiacheng Liu, Jaideep Srivastava
+
