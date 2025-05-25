@@ -28,3 +28,5 @@ Fast Stochastic Algorithms for Low-rank and Nonsmooth Matrix Problems:	Dan Garbe
 
 Orbit Optimization by Radial Basis Function Interpolation in Trust-Regions:	Unknown
 
+Multidimensional Stochastic Approximation Methods:	Unknown
+
