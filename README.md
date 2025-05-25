@@ -36,3 +36,5 @@ Octopus Inspired Optimization Algorithm: Multi-Level Structures and Parallel Com
 
 On Dvoretzky's Stochastic Approximation Theorem:	Unknown
 
+A model-free method for learning flexibility capacity of loads providing grid support:	Austin R. Coffman, Prabir Barooah
+
