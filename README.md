@@ -53,3 +53,4 @@ W–SPSA in Practice Approximation of Weight Matrices and Calibration of Traffic
 Multi-Objective Optimization and Hyperparameter Tuning With Desirability Functions:	Thomas Bartz-Beielstein
 Sequential Bayesian experimental design for estimation of extreme-event probability in stochastic dynamical systems:	Xianliang Gong, Yulin Pan
 Approximate homotopy series solutions of perturbed PDEs via approximate symmetry method:	Zhi-Yong Zhang
+A Stochastic Approximation Method:	Unknown
