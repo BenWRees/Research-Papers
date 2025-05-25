@@ -9,3 +9,4 @@ Stochastic Constraint Programming:	Toby Walsh
 Partial-Hessian Strategies for Fast Learning of Nonlinear Embeddings:	Max Vladymyrov, Miguel Carreira-Perpinan
 Optimizing tail risks using an importance sampling based extrapolation for heavy-tailed objectives:	Anand Deo, Karthyek Murthy
 A Generalized Version of Chung's Lemma and its Applications:	Li Jiang, Xiao Li, Andre Milzarek, Junwen Qiu
+"Medium-n studies" in computing education conferences:	Michael Guerzhoy
