@@ -7,3 +7,4 @@ Inexact Proximal Gradient Methods for Non-convex and Non-smooth Optimization:	Bi
 One-parameter robust global frequency estimator for slowly varying amplitude and noisy oscillations:	Michael Ruderman
 Stochastic Constraint Programming:	Toby Walsh
 Partial-Hessian Strategies for Fast Learning of Nonlinear Embeddings:	Max Vladymyrov, Miguel Carreira-Perpinan
+Optimizing tail risks using an importance sampling based extrapolation for heavy-tailed objectives:	Anand Deo, Karthyek Murthy
