@@ -97,3 +97,4 @@ Quasi-Likelihood Analysis for Stochastic Regression Models with Nonsynchronous O
 The Proximal Robbins-Monro Method:	Panos Toulis, Thibaut Horel, Edoardo M. Airoldi
 Numerical studies of the metamodel fitting and validation processes:	Bertrand Iooss, Loïc Boussouf, Vincent Feuillard, Amandine Marrel
 The stochastic integrable AKNS hierarchy:	Alexis Arnaudon
+A Sequential Quadratic Programming Method with High Probability Complexity Bounds for Nonlinear Equality Constrained Stochastic Optimization:	Albert S. Berahas, Miaolan Xie, Baoyu Zhou
