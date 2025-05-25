@@ -54,3 +54,5 @@ Large-Scale Machine Learning with Stochastic Gradient Descent:	Unknown
 
 Quantum subroutine problem and the robustness of quantum complexity classes:	Harumichi Nishimura, Masanao Ozawa
 
+Stochastic virtual element methods for uncertainty propagation of stochastic linear elasticity:	Zhibao Zheng, Udo Nackenhorst
+
