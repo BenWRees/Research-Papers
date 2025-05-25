@@ -68,3 +68,5 @@ Solving Stochastic Optimization by Newton-type methods with Dimension-Adaptive S
 
 Consumer Transactions Simulation through Generative Adversarial Networks:	Sergiy Tkachuk, Szymon Łukasik, Anna Wróblewska
 
+Importance Sampling for Minimization of Tail Risks: A Tutorial:	Anand Deo, Karthyek Murthy
+
