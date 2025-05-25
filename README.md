@@ -25,3 +25,4 @@ Stochastic trust-region algorithm in random subspaces with convergence and expec
 Offline Bayesian Aleatoric and Epistemic Uncertainty Quantification and Posterior Value Optimisation in Finite-State MDPs:	Filippo Valdettaro, A. Aldo Faisal
 Bayesian Optimisation for Constrained Problems:	Juan Ungredda, Juergen Branke
 Large-Scale Machine Learning with Stochastic Gradient Descent:	Unknown
+Quantum subroutine problem and the robustness of quantum complexity classes:	Harumichi Nishimura, Masanao Ozawa
