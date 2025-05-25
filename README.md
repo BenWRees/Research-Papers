@@ -59,3 +59,4 @@ A Brief Introduction to Optimization via Simulation:	Unknown
 T-SCI: A Two-Stage Conformal Inference Algorithm with Guaranteed Coverage for Cox-MLP:	Jiaye Teng, Zeren Tan, Yang Yuan
 Simopt -- Simulation pass for Speculative Optimisation of FPGA-CAD flow:	Eashan Wadhwa, Shanker Shreejith
 Convergence of projected stochastic approximation algorithm:	Michał Borowski, Błażej Miasojedow
+Optimization by moving ridge functions derivative-free optimization for computationally intensive functions:	Unknown
