@@ -87,3 +87,4 @@ Sensitive vPSA -- Exploring Sensitivity in Visual Parameter Space Analysis:	Bern
 Using Pareto Simulated Annealing to Address Algorithmic Bias in Machine Learning:	William Blanzeisky, Pádraig Cunningham
 Foxtsage vs. Adam: Revolution or Evolution in Optimization?:	Sirwan A. Aula, Tarik A. Rashid
 Random projections for trust region subproblems:	Ky Vu, Pierre-Louis Poirion, Claudia D'Ambrosio, Leo Liberti
+Adaptive Principal Component Analysis:	Unknown
