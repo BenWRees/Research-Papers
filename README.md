@@ -81,3 +81,4 @@ First-order Stochastic Algorithms for Escaping From Saddle Points in Almost Line
 Optimal and Efficient Designs of Experiments:	Unknown
 Clover Action for Blue Gene-Q and Iterative solvers for DWF:	Karthee Sivalingam, Peter Boyle
 A Companion for the Kiefer–Wolfowitz–Blum Stochastic Approximation Algorithm:	Unknown
+Adaptive Partition-based SDDP Algorithms for Multistage Stochastic Linear Programming:	Murwan Siddig, Yongjia Song
