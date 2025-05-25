@@ -68,3 +68,4 @@ Recursion-Free Online Multiple Incremental/Decremental Analysis Based on Ridge S
 Stochastic Mirror Descent Dynamics and their Convergence in Monotone Variational Inequalities:	Unknown
 Recurrent neural network training with preconditioned stochastic gradient descent:	Xi-Lin Li
 Avoiding Geometry Improvement in Derivative-Free Model-Based Methods via Randomization:	Matt Menickelly
+A Game Theoretic Analysis for Cooperative Smart Farming:	Deepti Gupta, Paras Bhatt, Smriti Bhatt
