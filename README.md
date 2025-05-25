@@ -70,3 +70,5 @@ Consumer Transactions Simulation through Generative Adversarial Networks:	Sergiy
 
 Importance Sampling for Minimization of Tail Risks: A Tutorial:	Anand Deo, Karthyek Murthy
 
+Implementation of Stochastic Quasi-Newton's Method in PyTorch:	Yingkai Li, Huidong Liu
+
