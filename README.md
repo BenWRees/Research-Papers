@@ -188,3 +188,5 @@ Mutual inactivation of Notch and Delta permits a simple mechanism for lateral in
 
 A Numerical Study of Newton Interpolation with Extremely High Degrees:	Michael Breuß, Friedemann Kemm, Oliver Vogel
 
+Stochastic Estimation of the Maximum of a Regression Function:	Unknown
+
