@@ -158,3 +158,5 @@ An overview of SPSA: recent development and applications:	Chen Wang
 
 First-order Stochastic Algorithms for Escaping From Saddle Points in Almost Linear Time:	Yi Xu, Rong Jin, Tianbao Yang
 
+Optimal and Efficient Designs of Experiments:	Unknown
+
