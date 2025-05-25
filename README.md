@@ -128,3 +128,5 @@ Active subspace methods in theory and practice: applications to kriging surfaces
 
 Ratchet-mediated resetting: Current, efficiency, and exact solution:	Connor Roberts, Emir Sezik, Eloise Lardet
 
+Recent Advances in Stochastic Gradient Descent in Deep Learning:	Unknown
+
