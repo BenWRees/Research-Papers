@@ -92,3 +92,5 @@ Explain Variance of Prediction in Variational Time Series Models for Clinical De
 
 Stochastic Resetting and Applications:	Unknown
 
+Direct Visual-Inertial Odometry with Semi-Dense Mapping:	Wenju Xu, Dongkyu Choi, Guanghui Wang
+
