@@ -140,3 +140,5 @@ Avoiding Geometry Improvement in Derivative-Free Model-Based Methods via Randomi
 
 A Game Theoretic Analysis for Cooperative Smart Farming:	Deepti Gupta, Paras Bhatt, Smriti Bhatt
 
+Predictability in Nonlinear Dynamical Systems with Model Uncertainty:	Jinqiao Duan
+
