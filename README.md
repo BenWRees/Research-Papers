@@ -192,3 +192,5 @@ Stochastic Estimation of the Maximum of a Regression Function:	Unknown
 
 The Proximal Robbins Monro Method:	Unknown
 
+Optimization by Simulation Metamodelling Methods:	Unknown
+
