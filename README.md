@@ -89,3 +89,4 @@ Foxtsage vs. Adam: Revolution or Evolution in Optimization?:	Sirwan A. Aula, Tar
 Random projections for trust region subproblems:	Ky Vu, Pierre-Louis Poirion, Claudia D'Ambrosio, Leo Liberti
 Adaptive Principal Component Analysis:	Unknown
 Generalized Integrating Brownian Fields for Simulation Metamodeling:	Unknown
+Domain adaptation for sequence labeling using hidden Markov models:	Edouard Grave, Guillaume Obozinski, Francis Bach
