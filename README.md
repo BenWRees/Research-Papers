@@ -20,3 +20,5 @@ Optimizing tail risks using an importance sampling based extrapolation for heavy
 
 A Generalized Version of Chung's Lemma and its Applications:	Li Jiang, Xiao Li, Andre Milzarek, Junwen Qiu
 
+"Medium-n studies" in computing education conferences:	Michael Guerzhoy
+
