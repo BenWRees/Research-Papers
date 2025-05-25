@@ -174,3 +174,5 @@ Using Pareto Simulated Annealing to Address Algorithmic Bias in Machine Learning
 
 Foxtsage vs. Adam: Revolution or Evolution in Optimization?:	Sirwan A. Aula, Tarik A. Rashid
 
+Random projections for trust region subproblems:	Ky Vu, Pierre-Louis Poirion, Claudia D'Ambrosio, Leo Liberti
+
