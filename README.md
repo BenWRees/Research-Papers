@@ -178,3 +178,5 @@ Random projections for trust region subproblems:	Ky Vu, Pierre-Louis Poirion, Cl
 
 Adaptive Principal Component Analysis:	Unknown
 
+Generalized Integrating Brownian Fields for Simulation Metamodeling:	Unknown
+
