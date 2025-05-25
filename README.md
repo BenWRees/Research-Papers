@@ -38,3 +38,4 @@ Implementation of Stochastic Quasi-Newton's Method in PyTorch:	Yingkai Li, Huido
 Approximation Methods that Converge with Probability One:	Unknown
 A sequential surrogate method for reliability analysis based on radial basis function:	Xu Li, Chunlin Gong, Liangxian Gu, Wenkun Gao, Zhao Jing, Hua Su
 A Nesterov's Accelerated quasi-Newton method for Global Routing using Deep Reinforcement Learning:	S. Indrapriyadarsini, Shahrzad Mahboubi, Hiroshi Ninomiya, Takeshi Kamio, Hideki Asai
+Subspace Clustering with Active Learning:	Hankui Peng, Nicos G. Pavlidis
