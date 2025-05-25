@@ -134,3 +134,5 @@ Recursion-Free Online Multiple Incremental/Decremental Analysis Based on Ridge S
 
 Stochastic Mirror Descent Dynamics and their Convergence in Monotone Variational Inequalities:	Unknown
 
+Recurrent neural network training with preconditioned stochastic gradient descent:	Xi-Lin Li
+
