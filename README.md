@@ -110,3 +110,5 @@ Approximate homotopy series solutions of perturbed PDEs via approximate symmetry
 
 A Stochastic Approximation Method:	Unknown
 
+Revisiting stochastic off-policy action-value gradients:	Yemi Okesanjo, Victor Kofia
+
