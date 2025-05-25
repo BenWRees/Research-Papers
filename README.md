@@ -120,3 +120,5 @@ Simopt -- Simulation pass for Speculative Optimisation of FPGA-CAD flow:	Eashan 
 
 Convergence of projected stochastic approximation algorithm:	Michał Borowski, Błażej Miasojedow
 
+Optimization by moving ridge functions derivative-free optimization for computationally intensive functions:	Unknown
+
