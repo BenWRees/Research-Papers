@@ -130,3 +130,5 @@ Ratchet-mediated resetting: Current, efficiency, and exact solution:	Connor Robe
 
 Recent Advances in Stochastic Gradient Descent in Deep Learning:	Unknown
 
+Recursion-Free Online Multiple Incremental/Decremental Analysis Based on Ridge Support Vector Learning:	Bo-Wei Chen
+
