@@ -11,3 +11,4 @@ Optimizing tail risks using an importance sampling based extrapolation for heavy
 A Generalized Version of Chung's Lemma and its Applications:	Li Jiang, Xiao Li, Andre Milzarek, Junwen Qiu
 "Medium-n studies" in computing education conferences:	Michael Guerzhoy
 A Robbins--Monro Sequence That Can Exploit Prior Information For Faster Convergence:	Siwei Liu, Ke Ma, Stephan M. Goetz
+Fast Stochastic Algorithms for Low-rank and Nonsmooth Matrix Problems:	Dan Garber, Atara Kaplan
