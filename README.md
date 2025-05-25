@@ -12,3 +12,5 @@ Inexact Proximal Gradient Methods for Non-convex and Non-smooth Optimization:	Bi
 
 One-parameter robust global frequency estimator for slowly varying amplitude and noisy oscillations:	Michael Ruderman
 
+Stochastic Constraint Programming:	Toby Walsh
+
