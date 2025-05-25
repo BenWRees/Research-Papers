@@ -146,3 +146,5 @@ Multivariate stochastic approximation using a Simultaneous Perturbation Gradient
 
 A New Unbiased Stochastic Derivative Estimator for Discontinuous Sample Performances with Structural Parameters:	Unknown
 
+PANTR A proximal algorithm with trust-region updates for nonconvex constrained optimization:	Unknown
+
