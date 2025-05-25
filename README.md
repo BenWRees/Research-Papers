@@ -206,3 +206,5 @@ Foreign exchange trading and management with the stochastic dual dynamic program
 
 Sequential Monte Carlo with active subspaces:	Leonardo Ripoli, Richard G. Everitt
 
+LinEasyBO: Scalable Bayesian Optimization Approach for Analog Circuit Synthesis via One-Dimensional Subspaces:	Shuhan Zhang, Fan Yang, Changhao Yan, Dian Zhou, Xuan Zeng
+
