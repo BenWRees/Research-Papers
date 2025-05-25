@@ -212,3 +212,5 @@ TREGO: a Trust-Region Framework for Efficient Global Optimization:	Youssef Dioua
 
 Diffusion with Stochastic Resetting:	Unknown
 
+Optimisation with Intrinsic Dimension Reduction A Ridge-Informed Trust-Region Method:	Unknown
+
