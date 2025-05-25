@@ -33,3 +33,4 @@ Backtracking activation impacts the criticality of excitable networks:	Renquan Z
 Variance-Based Sensitivity Analysis to Support Simulation-Based Design Under Uncertainty:	Unknown
 Solving Stochastic Optimization by Newton-type methods with Dimension-Adaptive Sparse Grid Quadrature:	Yuancheng Zhou
 Consumer Transactions Simulation through Generative Adversarial Networks:	Sergiy Tkachuk, Szymon Łukasik, Anna Wróblewska
+Importance Sampling for Minimization of Tail Risks: A Tutorial:	Anand Deo, Karthyek Murthy
