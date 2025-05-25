@@ -85,3 +85,4 @@ Adaptive Partition-based SDDP Algorithms for Multistage Stochastic Linear Progra
 A Radial Basis Function based Optimization Algorithm with Regular Simplex set geometry in Ellipsoidal Trust-Regions:	Tom Lefebvre, Frederik De Belie, Guillaume Crevecoeur
 Sensitive vPSA -- Exploring Sensitivity in Visual Parameter Space Analysis:	Bernhard Fröhler, Tim Elberfeld, Torsten Möller, Hans-Christian Hege, Julia Maurer, Christoph Heinzl
 Using Pareto Simulated Annealing to Address Algorithmic Bias in Machine Learning:	William Blanzeisky, Pádraig Cunningham
+Foxtsage vs. Adam: Revolution or Evolution in Optimization?:	Sirwan A. Aula, Tarik A. Rashid
