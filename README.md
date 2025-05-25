@@ -13,3 +13,4 @@ A Generalized Version of Chung's Lemma and its Applications:	Li Jiang, Xiao Li, 
 A Robbins--Monro Sequence That Can Exploit Prior Information For Faster Convergence:	Siwei Liu, Ke Ma, Stephan M. Goetz
 Fast Stochastic Algorithms for Low-rank and Nonsmooth Matrix Problems:	Dan Garber, Atara Kaplan
 Orbit Optimization by Radial Basis Function Interpolation in Trust-Regions:	Unknown
+Multidimensional Stochastic Approximation Methods:	Unknown
