@@ -18,3 +18,4 @@ Trust Region Methods For Nonconvex Stochastic Optimization Beyond Lipschitz Smoo
 Octopus Inspired Optimization Algorithm: Multi-Level Structures and Parallel Computing Strategies:	Xu Wang, Longji Xu, Yiquan Wang, Yuhua Dong, Xiang Li, Jia Deng, Rui He
 On Dvoretzky's Stochastic Approximation Theorem:	Unknown
 A model-free method for learning flexibility capacity of loads providing grid support:	Austin R. Coffman, Prabir Barooah
+Data-driven polynomial ridge approximation using variable projection:	Jeffrey M. Hokanson, Paul G. Constantine
