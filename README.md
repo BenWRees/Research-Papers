@@ -96,3 +96,4 @@ A Numerical Study of Newton Interpolation with Extremely High Degrees:	Michael B
 Quasi-Likelihood Analysis for Stochastic Regression Models with Nonsynchronous Observations:	Teppei Ogihara, Nakahiro Yoshida
 The Proximal Robbins-Monro Method:	Panos Toulis, Thibaut Horel, Edoardo M. Airoldi
 Numerical studies of the metamodel fitting and validation processes:	Bertrand Iooss, Loïc Boussouf, Vincent Feuillard, Amandine Marrel
+The stochastic integrable AKNS hierarchy:	Alexis Arnaudon
