@@ -90,3 +90,5 @@ The Proximal Robbins-Monro Method:	Panos Toulis, Thibaut Horel, Edoardo M. Airol
 
 Explain Variance of Prediction in Variational Time Series Models for Clinical Deterioration Prediction:	Jiacheng Liu, Jaideep Srivastava
 
+Stochastic Resetting and Applications:	Unknown
+
