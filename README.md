@@ -65,3 +65,4 @@ Active subspace methods in theory and practice: applications to kriging surfaces
 Ratchet-mediated resetting: Current, efficiency, and exact solution:	Connor Roberts, Emir Sezik, Eloise Lardet
 Recent Advances in Stochastic Gradient Descent in Deep Learning:	Unknown
 Recursion-Free Online Multiple Incremental/Decremental Analysis Based on Ridge Support Vector Learning:	Bo-Wei Chen
+Stochastic Mirror Descent Dynamics and their Convergence in Monotone Variational Inequalities:	Unknown
