@@ -46,3 +46,5 @@ Adaptive asymptotically efficient estimation in heteroscedastic nonparametric re
 
 Stochastic trust-region algorithm in random subspaces with convergence and expected complexity analyses:	Kwassi Joseph Dzahini, Stefan M. Wild
 
+Offline Bayesian Aleatoric and Epistemic Uncertainty Quantification and Posterior Value Optimisation in Finite-State MDPs:	Filippo Valdettaro, A. Aldo Faisal
+
