@@ -180,3 +180,5 @@ Adaptive Principal Component Analysis:	Unknown
 
 Generalized Integrating Brownian Fields for Simulation Metamodeling:	Unknown
 
+Domain adaptation for sequence labeling using hidden Markov models:	Edouard Grave, Guillaume Obozinski, Francis Bach
+
