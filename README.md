@@ -83,3 +83,4 @@ Clover Action for Blue Gene-Q and Iterative solvers for DWF:	Karthee Sivalingam,
 A Companion for the Kiefer–Wolfowitz–Blum Stochastic Approximation Algorithm:	Unknown
 Adaptive Partition-based SDDP Algorithms for Multistage Stochastic Linear Programming:	Murwan Siddig, Yongjia Song
 A Radial Basis Function based Optimization Algorithm with Regular Simplex set geometry in Ellipsoidal Trust-Regions:	Tom Lefebvre, Frederik De Belie, Guillaume Crevecoeur
+Sensitive vPSA -- Exploring Sensitivity in Visual Parameter Space Analysis:	Bernhard Fröhler, Tim Elberfeld, Torsten Möller, Hans-Christian Hege, Julia Maurer, Christoph Heinzl
