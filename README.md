@@ -8,3 +8,5 @@ Fast Adaptive Beamforming based on kernel method under Small Sample Support:	Hu 
 
 Model Selection for Explosive Models:	Yubo Tao, Jun Yu
 
+Inexact Proximal Gradient Methods for Non-convex and Non-smooth Optimization:	Bin Gu, De Wang, Zhouyuan Huo, Heng Huang
+
