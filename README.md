@@ -6,3 +6,4 @@ Model Selection for Explosive Models:	Yubo Tao, Jun Yu
 Inexact Proximal Gradient Methods for Non-convex and Non-smooth Optimization:	Bin Gu, De Wang, Zhouyuan Huo, Heng Huang
 One-parameter robust global frequency estimator for slowly varying amplitude and noisy oscillations:	Michael Ruderman
 Stochastic Constraint Programming:	Toby Walsh
+Partial-Hessian Strategies for Fast Learning of Nonlinear Embeddings:	Max Vladymyrov, Miguel Carreira-Perpinan
