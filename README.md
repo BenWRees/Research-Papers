@@ -42,3 +42,5 @@ Data-driven polynomial ridge approximation using variable projection:	Jeffrey M.
 
 A primal-dual interior point trust region method for inequality-constrained optimization problems on Riemannian manifolds:	Mitsuaki Obara, Takayuki Okuno, Akiko Takeda
 
+Adaptive asymptotically efficient estimation in heteroscedastic nonparametric regression via model selection:	Leonid Galtchouk, Serguey Pergamenshchikov
+
