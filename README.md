@@ -32,3 +32,5 @@ Multidimensional Stochastic Approximation Methods:	Unknown
 
 Trust Region Methods For Nonconvex Stochastic Optimization Beyond Lipschitz Smoothness:	Chenghan Xie, Chenxi Li, Chuwen Zhang, Qi Deng, Dongdong Ge, Yinyu Ye
 
+Octopus Inspired Optimization Algorithm: Multi-Level Structures and Parallel Computing Strategies:	Xu Wang, Longji Xu, Yiquan Wang, Yuhua Dong, Xiang Li, Jia Deng, Rui He
+
