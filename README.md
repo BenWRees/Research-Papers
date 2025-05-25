@@ -27,3 +27,4 @@ Bayesian Optimisation for Constrained Problems:	Juan Ungredda, Juergen Branke
 Large-Scale Machine Learning with Stochastic Gradient Descent:	Unknown
 Quantum subroutine problem and the robustness of quantum complexity classes:	Harumichi Nishimura, Masanao Ozawa
 STOCHASTIC APPROXIMATION:	Unknown
+Bridging the Gap between Constant Step Size Stochastic Gradient Descent and Markov Chains:	Unknown
